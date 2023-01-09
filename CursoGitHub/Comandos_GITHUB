@@ -1,0 +1,11 @@
+Comandos GITHUB
+Inicializando o GitHub
+    git init
+        Comando para criar o repositorio local do github
+    git status
+        Comando para verificar status do repositorio github, verificar se tem algum arquivo nao adicionado ou nao
+        commitado
+    git commit -m "MENSAGEM"
+        Comando para commitar os arquivos ao serem enviados
+    git add .
+        Comando para add/enviar os arquivos no commit
