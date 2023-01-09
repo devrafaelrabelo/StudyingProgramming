@@ -23,6 +23,8 @@ Inicializando o GitHub
         Renomear a branch atual
     git branch -a
         Listar todas as branch remotas
+    git checkout NOMEDABRANCH
+        Mudar de branch
     git remote add origin https......
         Gerencie o conjunto dos repositórios monitorados
     git pull
@@ -42,3 +44,9 @@ Inicializando o GitHub
             /NOME_DA_PASTA
         ARQUIVO
             NOMEARQUIVO.....
+    git reset --hard "origin/main" "BRANCH"
+        Comando para resetar conforme a branch passada
+        Puxa o ultimo commit feito para a branch desejada
+    git merge NOMEDABRANCH
+        Unir branches 
+    
