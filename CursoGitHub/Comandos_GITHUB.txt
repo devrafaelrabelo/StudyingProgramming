@@ -73,4 +73,5 @@ Inicializando o GitHub
     git push origin --delete NOMEBRANCHREMOTE
         Remover branch remota
 
-    
+    git stash
+        Voltar arquivo para o inicio, antes das modificações, e deixar salvo a modificações para poder puxar num futuro 
