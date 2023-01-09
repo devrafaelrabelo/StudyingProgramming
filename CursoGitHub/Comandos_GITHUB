@@ -9,3 +9,21 @@ Inicializando o GitHub
         Comando para commitar os arquivos ao serem enviados
     git add .
         Comando para add/enviar os arquivos no commit
+    git push
+        Comando para enviar para o github os arqvuios commitados
+    git branch /git branch --list
+        Listar todas as branch do github
+    git branch NOME
+        Criar uma nova branch
+    git branch -d NOME
+        Excluir branch selecionada
+    git branch -D NOME
+        Forçar Exclusão da branch
+    git branch -m NOME
+        Renomear a branch atual
+    git branch -a
+        Listar todas as branch remotas
+    git remote add origin https......
+        Gerencie o conjunto dos repositórios monitorados
+    git pull
+        Receber os arquivos do github
