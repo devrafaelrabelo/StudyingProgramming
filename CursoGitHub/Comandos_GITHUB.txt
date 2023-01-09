@@ -27,3 +27,18 @@ Inicializando o GitHub
         Gerencie o conjunto dos repositórios monitorados
     git pull
         Receber os arquivos do github
+    git clone
+        Comando para clonar um repositorio
+    git log 
+        Visualizar o log de alterações
+    git checkout NOMEDOARQUIVO
+        Faz o rollback do arquivo selecionado (Volta ao ponto da ultima branch)
+    
+    Criar arquivo para selecionar arquivos
+    .gitignore 
+
+    Exemplo:
+        PASTA
+            /NOME_DA_PASTA
+        ARQUIVO
+            NOMEARQUIVO.....
