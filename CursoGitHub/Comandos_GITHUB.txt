@@ -2,51 +2,75 @@ Comandos GITHUB
 Inicializando o GitHub
     git init
         Comando para criar o repositorio local do github
+    
     git status
         Comando para verificar status do repositorio github, verificar se tem algum arquivo nao adicionado ou nao
         commitado
+    
     git commit -m "MENSAGEM"
         Comando para commitar os arquivos ao serem enviados
+    
     git add .
         Comando para add/enviar os arquivos no commit
+    
     git push
         Comando para enviar para o github os arqvuios commitados
+    
     git branch /git branch --list
         Listar todas as branch do github
+   
     git branch NOME
         Criar uma nova branch
+   
     git branch -d NOME
         Excluir branch selecionada
+   
     git branch -D NOME
         Forçar Exclusão da branch
+   
     git branch -m NOME
         Renomear a branch atual
+   
     git branch -a
         Listar todas as branch remotas
+   
     git checkout NOMEDABRANCH
         Mudar de branch
+   
     git remote add origin https......
         Gerencie o conjunto dos repositórios monitorados
+   
     git pull
         Receber os arquivos do github
+  
     git clone
         Comando para clonar um repositorio
+  
     git log 
         Visualizar o log de alterações
+  
     git checkout NOMEDOARQUIVO
         Faz o rollback do arquivo selecionado (Volta ao ponto da ultima branch)
     
-    Criar arquivo para selecionar arquivos
-    .gitignore 
+        Criar arquivo para selecionar arquivos
+        .gitignore 
 
-    Exemplo:
-        PASTA
-            /NOME_DA_PASTA
-        ARQUIVO
-            NOMEARQUIVO.....
+        Exemplo:
+            PASTA
+                /NOME_DA_PASTA
+            ARQUIVO
+                NOMEARQUIVO.....
+
     git reset --hard "origin/main" "BRANCH"
         Comando para resetar conforme a branch passada
         Puxa o ultimo commit feito para a branch desejada
+
     git merge NOMEDABRANCH
         Unir branches 
+        it merge branch
+            Git merge, serve tanto para puxar a atualização de uma branch para a sua ou vice-versa
+
+    git push origin --delete NOMEBRANCHREMOTE
+        Remover branch remota
+
     
