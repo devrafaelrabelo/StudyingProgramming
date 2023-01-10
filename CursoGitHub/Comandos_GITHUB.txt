@@ -96,3 +96,13 @@ Inicializando o GitHub
     git fetch -a
         Puxa todas as branch que estou no nosso repositorio
 
+    git gc
+        ajudar na perfomace na hora de subir
+
+    git shortlog
+        Lista dos os commits
+
+    git diff
+        Mostra a diferença dos arquivos locais para os arquivos locais
+
+
