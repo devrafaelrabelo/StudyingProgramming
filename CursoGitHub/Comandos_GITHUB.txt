@@ -76,7 +76,16 @@ Inicializando o GitHub
     git stash
         Voltar arquivo para o inicio, antes das modificações, e deixar salvo a modificações para poder puxar num futuro
 
-   git tag -a NOMEDATAG -m "MENSAGEM"
+    git tag -a NOMEDATAG -m "MENSAGEM"
         Usado para marcar versoes Ex.
             git tag -a V1.00 -m "Sistema Finalizado."
+
+    git show NOME
+        Mostras as tags disponiveis Ex.
+            git show v1.00
+
+    git checkout NOMETAG
+        Andar entre as tag's
+
+
 
