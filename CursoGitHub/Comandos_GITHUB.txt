@@ -74,4 +74,9 @@ Inicializando o GitHub
         Remover branch remota
 
     git stash
-        Voltar arquivo para o inicio, antes das modificações, e deixar salvo a modificações para poder puxar num futuro 
+        Voltar arquivo para o inicio, antes das modificações, e deixar salvo a modificações para poder puxar num futuro
+
+   git tag -a NOMEDATAG -m "MENSAGEM"
+        Usado para marcar versoes Ex.
+            git tag -a V1.00 -m "Sistema Finalizado."
+
