@@ -87,5 +87,12 @@ Inicializando o GitHub
     git checkout NOMETAG
         Andar entre as tag's
 
+    git push origin NOMETAG
+        Subir para o git as tags, EX.
+            git push origin v1.01
+        Enviar todas as Tags
+            git push origin --tags
 
+    git fetch -a
+        Puxa todas as branch que estou no nosso repositorio
 
