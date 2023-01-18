@@ -77,3 +77,13 @@ Acento Grave "`"  CRASE
 * [x] Site Responsivo
 * [x] Site Responsivo
 * [x] Site Responsivo
+
+**Criando Tabela**
+
+
+PROPIEDADE | DESCRIÇÃO
+---------- | ----------- 
+NOME | Para Informar nome.
+IDADE | Para Idade.
+LOCAL | Para Informar Local da moradia
+
