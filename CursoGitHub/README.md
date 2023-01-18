@@ -31,4 +31,43 @@
 
         3. "[" TEXTO "]" "(" LINK.COM.BR ")"
 
+>Este é uma blockquote, usado para destacar
 
+>Destaque 1 
+
+>Destaque 2
+
+
+**Comando para Rodar o Projeto**
+
+```
+Acento Grave "`"  CRASE
+
+```
+   
+**Exemplo JavaScript**
+
+```js
+    function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+**Exemplo JavaScript**
+  
+```html
+<h1>
+    Titulo do Projeto
+    <span>Curso Git</span>
+</h1>
+
+```
+
+**Exemplo JavaScript**
+  
+```css
+.titulo{
+    background-color: #fff;
+    color: #000FFF;
+}
+   
+```
