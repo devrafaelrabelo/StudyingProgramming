@@ -25,10 +25,10 @@
 
 1. LINK
 
-2. [instagram](https://www.instagram.com/_faelrg/)
+        1. [instagram](https://www.instagram.com/_faelrg/)
 
-3. [Youtube](.............................)
+        2. [Youtube](.............................)
 
-"[" TEXTO "]" "(" LINK.COM.BR ")"
+        3. "[" TEXTO "]" "(" LINK.COM.BR ")"
 
 
