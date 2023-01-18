@@ -75,7 +75,7 @@ Acento Grave "`"  CRASE
 **Criando Takslit**
 
 * [x] Site Responsivo
-* [x] Site Responsivo
+* [] Site Responsivo
 * [x] Site Responsivo
 
 ### **Criando Tabela**
