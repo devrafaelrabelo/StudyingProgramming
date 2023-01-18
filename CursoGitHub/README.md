@@ -29,5 +29,5 @@ LINK
 
 [Youtube](.............................)
 
-[TEXTO](LINK.COM.BR)
+"[" TEXTO "]" "(" LINK.COM.BR ")"
 
