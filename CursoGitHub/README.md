@@ -2,19 +2,19 @@
 
 ## Aprendendo os Comandos
 
-# "#" Titulo H1 
+* # "#" Titulo H1 
 
-## "##" Subtitulo H2
+* ## "##" Subtitulo H2
 
-### "###" Subtitulo H3
+* ### "###" Subtitulo H3
 
-NORMAL
+* NORMAL
 
-#### "####" Subtitulo H4 
+* #### "####" Subtitulo H4 
 
-##### "#####" Subtitulo H5
+* ##### "#####" Subtitulo H5
 
-###### "######" Subtitulo H6
+* ###### "######" Subtitulo H6
 
 ** **NEGRITO**
 
@@ -23,11 +23,12 @@ NORMAL
 ![LOGO DO GIT](https://fjorgemota.com/wp-content/uploads/2016/01/logo-git.png)
 
 
-LINK
+1. LINK
 
-[instagram](https://www.instagram.com/_faelrg/)
+2. [instagram](https://www.instagram.com/_faelrg/)
 
-[Youtube](.............................)
+3. [Youtube](.............................)
 
 "[" TEXTO "]" "(" LINK.COM.BR ")"
+
 
