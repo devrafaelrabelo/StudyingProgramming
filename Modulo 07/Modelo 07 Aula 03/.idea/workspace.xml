@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10252739-9243-42a5-b762-0c566cdb5d01" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modelo 07 Aula 03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula/Pacote1/Classe1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula/Pacote1/Classe2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula/Pacote2/Classe3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/Aula 7.1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/Aula 7.1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/Aula 7.1/src/Aula3/Pacote1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/out/production/Modulo 07/Aula1/CancelarVenda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/out/production/Modulo 07/Aula1/Cliente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/out/production/Modulo 07/Aula1/Funcionario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/out/production/Modulo 07/Aula1/ItemVenda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/out/production/Modulo 07/Aula1/PrimeiraClasse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/out/production/Modulo 07/Aula1/Produto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/out/production/Modulo 07/Aula1/Venda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/out/production/Modulo 07/Aula3/Pacote1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/StudyingProgramming.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.project" beforeDir="false" afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula 7.1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula 7.1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula 7.1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/Aula 7.1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula 7.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/Aula 7.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula 7.1/src/CancelarVenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/Aula 7.1/src/Aula1/CancelarVenda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula 7.1/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/Aula 7.1/src/Aula1/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula 7.1/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/Aula 7.1/src/Aula1/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula 7.1/src/ItemVenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/Aula 7.1/src/Aula1/ItemVenda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula 7.1/src/PrimeiraClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/Aula 7.1/src/Aula1/PrimeiraClasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula 7.1/src/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/Aula 7.1/src/Aula1/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula 7.1/src/Venda.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/Aula 7.1/src/Aula1/Venda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modulo 07.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Modulo 07 Aula 01/Modulo 07.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Modulo 07/CancelarVenda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Modulo 07/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Modulo 07/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Modulo 07/ItemVenda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Modulo 07/PrimeiraClasse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Modulo 07/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Modulo 07/Venda.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2S6uahtrUiCeys3MXLeipxOu4BZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "onboarding.tips.debug.path": "D:/Users/Rafael Rabelo/Desktop/Cursos/StudyingProgramming/Modulo 07/Modelo 07 Aula 03/src/Main.java",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10252739-9243-42a5-b762-0c566cdb5d01" name="Changes" comment="" />
+      <created>1688479421319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688479421319</updated>
+    </task>
+    <servers />
+  </component>
+</project>
