@@ -7,10 +7,12 @@ public class Cliente {
     private String endereco;
 
     public int getCodigo() {
+
         return Codigo;
     }
 
     public void setCodigo(int codigo) {
+
         Codigo = codigo;
     }
 
