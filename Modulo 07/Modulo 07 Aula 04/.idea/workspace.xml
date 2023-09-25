@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5aa959e-472a-478e-a97c-3f8a861a43cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Modulo 07 Aula 05/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo 07 Aula 05/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo 07 Aula 05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo 07 Aula 05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo 07 Aula 05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo 07 Aula 05/src/CancelarVenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo 07 Aula 05/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo 07 Aula 05/src/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo 07 Aula 05/src/ItemVenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo 07 Aula 05/src/PrimeiraClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo 07 Aula 05/src/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo 07 Aula 05/src/Venda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modelo 07 Aula 03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Modelo 07 Aula 03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modulo 07 Aula 01/Aula 7.1/src/Aula1/CancelarVenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CancelarVenda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modulo 07 Aula 01/Aula 7.1/src/Aula1/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modulo 07 Aula 01/Aula 7.1/src/Aula1/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modulo 07 Aula 01/Aula 7.1/src/Aula1/ItemVenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ItemVenda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modulo 07 Aula 01/Aula 7.1/src/Aula1/PrimeiraClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeiraClasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modulo 07 Aula 01/Aula 7.1/src/Aula1/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modulo 07 Aula 01/Aula 7.1/src/Aula1/Venda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Venda.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2S78rSeFoUEZiXwZUR50Qju43el" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Users/Rafael Rabelo/Desktop/Cursos/StudyingProgramming/Modulo 07/Modulo 07 Aula 05",
+    "onboarding.tips.debug.path": "D:/Users/Rafael Rabelo/Desktop/Cursos/StudyingProgramming/Modulo 07/Modulo 07 Aula 04/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\Rafael Rabelo\Desktop\Cursos\StudyingProgramming\Modulo 07" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\Rafael Rabelo\Desktop\Cursos\StudyingProgramming\Modulo 07\Modulo 07 Aula 04\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5aa959e-472a-478e-a97c-3f8a861a43cb" name="Changes" comment="" />
+      <created>1688486458887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688486458887</updated>
+    </task>
+    <servers />
+  </component>
+</project>
